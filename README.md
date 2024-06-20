@@ -50,12 +50,13 @@ Before starting the task, ensure you have the following set up on your local mac
 ### Setup Instructions
 
 1. **Install Docker**: Follow the installation guide on the [Docker website](https://docs.docker.com/engine/install/).
-2. **Install Minikube**: Follow the installation guide on the [Minikube website](https://minikube.sigs.k8s.io/docs/start/).
-3. **Install Kubectl**: Follow the installation guide on the [Kubernetes website](https://kubernetes.io/docs/tasks/tools/).
-4. **Install Helm**: Follow the installation guide on the [Helm website](https://helm.sh/docs/intro/install/).
-5. **Install .NET SDK**: Follow the installation guide on the [.NET website](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks).
-6. **Install VS Code (optional)**: Follow the installation guide on the [VS Code website](https://code.visualstudio.com/download)
-7. **Start Minikube**: Run minikube start to create a local Kubernetes cluster.
+2. **Create a Docker Hub Account**: Follow the signup process on the [Docker Hub website](https://hub.docker.com/signup/).
+3. **Install Minikube**: Follow the installation guide on the [Minikube website](https://minikube.sigs.k8s.io/docs/start/).
+4. **Install Kubectl**: Follow the installation guide on the [Kubernetes website](https://kubernetes.io/docs/tasks/tools/).
+5. **Install Helm**: Follow the installation guide on the [Helm website](https://helm.sh/docs/intro/install/).
+6. **Install .NET SDK**: Follow the installation guide on the [.NET website](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks).
+7. **Install VS Code (optional)**: Follow the installation guide on the [VS Code website](https://code.visualstudio.com/download)
+8. **Start Minikube**: Run minikube start to create a local Kubernetes cluster.
 
 ## Requirements
 
